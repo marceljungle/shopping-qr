@@ -11,3 +11,9 @@
   - Run `createQR.py`
 -  Run `app.py` using Python 3
 - Scan the previously generated QR code and get the info of the product in it.
+
+## DEPENDENCIES
+- flask
+- pyqrcode
+- pypng
+- Pillow
